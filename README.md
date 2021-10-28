@@ -1,3 +1,3 @@
-- 👋 Hey there, I’m Deepak Tyagi! Welcome!
+- 👋 Hey there, I’m Deepak Tyagi!
 
-I'm a QA professional and love to automate tests.
+I'm a QA professional and I love to automate tests.
